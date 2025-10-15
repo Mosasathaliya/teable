@@ -143,7 +143,7 @@
     "cross-env": "7.0.3",
     "eslint": "8.57.0",
     "get-tsconfig": "4.7.3",
-    "happy-dom": "15.11.6",
+    "happy-dom": "20.0.2",
     "microbundle": "0.15.1",
     "npm-run-all2": "6.1.2",
     "prettier": "3.2.5",
