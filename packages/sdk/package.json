@@ -141,7 +141,7 @@
     "@vitejs/plugin-react-swc": "3.6.0",
     "@vitest/coverage-v8": "2.1.5",
     "cross-env": "7.0.3",
-    "eslint": "8.57.0",
+    "eslint": "9.26.0",
     "get-tsconfig": "4.7.3",
     "happy-dom": "15.11.6",
     "microbundle": "0.15.1",
